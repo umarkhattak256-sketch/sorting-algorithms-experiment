@@ -1,0 +1,127 @@
+List Size,Data Structure,Algorithm,Time (Seconds)
+50,Random,Bubble Sort,0.000071
+50,Random,Selection Sort,0.000033
+50,Random,Insertion Sort,0.000031
+50,Random,Merge Sort,0.000036
+50,Random,Quick Sort,0.000037
+50,Random,Heap Sort,0.000039
+50,Random,Python Built-in (Timsort),0.000001
+50,Sorted,Bubble Sort,0.000002
+50,Sorted,Selection Sort,0.000031
+50,Sorted,Insertion Sort,0.000004
+50,Sorted,Merge Sort,0.000030
+50,Sorted,Quick Sort,0.000029
+50,Sorted,Heap Sort,0.000048
+50,Sorted,Python Built-in (Timsort),0.000000
+50,Reverse Sorted,Bubble Sort,0.000088
+50,Reverse Sorted,Selection Sort,0.000040
+50,Reverse Sorted,Insertion Sort,0.000060
+50,Reverse Sorted,Merge Sort,0.000034
+50,Reverse Sorted,Quick Sort,0.000031
+50,Reverse Sorted,Heap Sort,0.000040
+50,Reverse Sorted,Python Built-in (Timsort),0.000000
+50,Almost Sorted,Bubble Sort,0.000019
+50,Almost Sorted,Selection Sort,0.000036
+50,Almost Sorted,Insertion Sort,0.000009
+50,Almost Sorted,Merge Sort,0.000044
+50,Almost Sorted,Quick Sort,0.000039
+50,Almost Sorted,Heap Sort,0.000046
+50,Almost Sorted,Python Built-in (Timsort),0.000001
+50,Mixed (Half Sorted),Bubble Sort,0.000054
+50,Mixed (Half Sorted),Selection Sort,0.000038
+50,Mixed (Half Sorted),Insertion Sort,0.000018
+50,Mixed (Half Sorted),Merge Sort,0.000038
+50,Mixed (Half Sorted),Quick Sort,0.000030
+50,Mixed (Half Sorted),Heap Sort,0.000042
+50,Mixed (Half Sorted),Python Built-in (Timsort),0.000001
+50,Flat (Few Distinct),Bubble Sort,0.000067
+50,Flat (Few Distinct),Selection Sort,0.000034
+50,Flat (Few Distinct),Insertion Sort,0.000024
+50,Flat (Few Distinct),Merge Sort,0.000034
+50,Flat (Few Distinct),Quick Sort,0.000009
+50,Flat (Few Distinct),Heap Sort,0.000059
+50,Flat (Few Distinct),Python Built-in (Timsort),0.000003
+5000,Random,Bubble Sort,0.742904
+5000,Random,Selection Sort,0.292294
+5000,Random,Insertion Sort,0.292494
+5000,Random,Merge Sort,0.007009
+5000,Random,Quick Sort,0.007153
+5000,Random,Heap Sort,0.009152
+5000,Random,Python Built-in (Timsort),0.000651
+5000,Sorted,Bubble Sort,0.000142
+5000,Sorted,Selection Sort,0.285080
+5000,Sorted,Insertion Sort,0.000256
+5000,Sorted,Merge Sort,0.006026
+5000,Sorted,Quick Sort,0.004948
+5000,Sorted,Heap Sort,0.009991
+5000,Sorted,Python Built-in (Timsort),0.000021
+5000,Reverse Sorted,Bubble Sort,1.015023
+5000,Reverse Sorted,Selection Sort,0.331261
+5000,Reverse Sorted,Insertion Sort,0.610852
+5000,Reverse Sorted,Merge Sort,0.005879
+5000,Reverse Sorted,Quick Sort,0.005014
+5000,Reverse Sorted,Heap Sort,0.008698
+5000,Reverse Sorted,Python Built-in (Timsort),0.000021
+5000,Almost Sorted,Bubble Sort,0.438072
+5000,Almost Sorted,Selection Sort,0.304323
+5000,Almost Sorted,Insertion Sort,0.016473
+5000,Almost Sorted,Merge Sort,0.005964
+5000,Almost Sorted,Quick Sort,0.004456
+5000,Almost Sorted,Heap Sort,0.010206
+5000,Almost Sorted,Python Built-in (Timsort),0.000076
+5000,Mixed (Half Sorted),Bubble Sort,0.624016
+5000,Mixed (Half Sorted),Selection Sort,0.308657
+5000,Mixed (Half Sorted),Insertion Sort,0.149065
+5000,Mixed (Half Sorted),Merge Sort,0.006863
+5000,Mixed (Half Sorted),Quick Sort,0.005425
+5000,Mixed (Half Sorted),Heap Sort,0.009858
+5000,Mixed (Half Sorted),Python Built-in (Timsort),0.000205
+5000,Flat (Few Distinct),Bubble Sort,0.674486
+5000,Flat (Few Distinct),Selection Sort,0.330705
+5000,Flat (Few Distinct),Insertion Sort,0.236318
+5000,Flat (Few Distinct),Merge Sort,0.006291
+5000,Flat (Few Distinct),Quick Sort,0.000644
+5000,Flat (Few Distinct),Heap Sort,0.008158
+5000,Flat (Few Distinct),Python Built-in (Timsort),0.000210
+50000,Random,Bubble Sort,Skipped
+50000,Random,Selection Sort,Skipped
+50000,Random,Insertion Sort,Skipped
+50000,Random,Merge Sort,0.080889
+50000,Random,Quick Sort,0.084303
+50000,Random,Heap Sort,0.134433
+50000,Random,Python Built-in (Timsort),0.007294
+50000,Sorted,Bubble Sort,Skipped
+50000,Sorted,Selection Sort,Skipped
+50000,Sorted,Insertion Sort,Skipped
+50000,Sorted,Merge Sort,0.076370
+50000,Sorted,Quick Sort,0.060153
+50000,Sorted,Heap Sort,0.131461
+50000,Sorted,Python Built-in (Timsort),0.000624
+50000,Reverse Sorted,Bubble Sort,Skipped
+50000,Reverse Sorted,Selection Sort,Skipped
+50000,Reverse Sorted,Insertion Sort,Skipped
+50000,Reverse Sorted,Merge Sort,0.070373
+50000,Reverse Sorted,Quick Sort,0.053350
+50000,Reverse Sorted,Heap Sort,0.115722
+50000,Reverse Sorted,Python Built-in (Timsort),0.001256
+50000,Almost Sorted,Bubble Sort,Skipped
+50000,Almost Sorted,Selection Sort,Skipped
+50000,Almost Sorted,Insertion Sort,Skipped
+50000,Almost Sorted,Merge Sort,0.078201
+50000,Almost Sorted,Quick Sort,0.055751
+50000,Almost Sorted,Heap Sort,0.134091
+50000,Almost Sorted,Python Built-in (Timsort),0.001202
+50000,Mixed (Half Sorted),Bubble Sort,Skipped
+50000,Mixed (Half Sorted),Selection Sort,Skipped
+50000,Mixed (Half Sorted),Insertion Sort,Skipped
+50000,Mixed (Half Sorted),Merge Sort,0.075108
+50000,Mixed (Half Sorted),Quick Sort,0.066963
+50000,Mixed (Half Sorted),Heap Sort,0.130040
+50000,Mixed (Half Sorted),Python Built-in (Timsort),0.002998
+50000,Flat (Few Distinct),Bubble Sort,Skipped
+50000,Flat (Few Distinct),Selection Sort,Skipped
+50000,Flat (Few Distinct),Insertion Sort,Skipped
+50000,Flat (Few Distinct),Merge Sort,0.073638
+50000,Flat (Few Distinct),Quick Sort,0.010897
+50000,Flat (Few Distinct),Heap Sort,0.100549
+50000,Flat (Few Distinct),Python Built-in (Timsort),0.002940
